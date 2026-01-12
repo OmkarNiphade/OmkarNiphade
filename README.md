@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omkar_niphade_?igsh=MWZuMjZpeGFuYTh4bg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-niphade-329774270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarniphade9@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-porfolio-website-ys9y.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omkar_niphade_?igsh=MWZuMjZpeGFuYTh4bg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-niphade-329774270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarniphade9@gmail.com)
 
 
 # 💻 Tech Stack:
